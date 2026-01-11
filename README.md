@@ -18,11 +18,11 @@ Proyek ini dikembangkan untuk membedakan varietas jagung berdasarkan fitur visua
 ## Struktur Project
 ```text
 ├── Corn_Classification_Code.ipynb  # Notebook utama (Training & Eval)
-├── Corn_Image_Dataset/             # Folder dataset (Train, Val, Test)
+├── Corn_Image_Dataset.zip          # Folder dataset (Train, Val, Test)
 │   ├── Chulpi Cancha/
 │   ├── Indurata/
 │   └── Rugosa/
-├── Laporan_Corn_Classification 
+├── Laporan_Corn_Classification.docx
 └── README.md                        # Dokumentasi proyek
 
 ```
