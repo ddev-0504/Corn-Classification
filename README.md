@@ -15,7 +15,7 @@ Proyek ini dikembangkan untuk membedakan varietas jagung berdasarkan fitur visua
 
 ---
 
-## 📂 Struktur Project
+## Struktur Project
 ```text
 ├── Corn_Classification_Code.ipynb  # Notebook utama (Training & Eval)
 ├── Corn_Image_Dataset/             # Folder dataset (Train, Val, Test)
