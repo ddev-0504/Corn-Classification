@@ -1,12 +1,12 @@
-# Klasifikasi Varietas Biji Jagung (Zea mays) menggunakan MobileNetV3-Small
+# 🌽 Klasifikasi Varietas Biji Jagung (Zea mays) menggunakan MobileNetV3-Small
 
-## 👥 Anggota Kelompok 
+## Anggota Kelompok 
 1. Nicholas - 103102400047
 2. Devika Widya Vania - 103102400044
 3. Zalsabila Rezky Amelia Arep - 103102400043
 4. Sofia - 103102400039
 
-### Proyek ini dikembangkan untuk membedakan varietas jagung berdasarkan fitur visual biji. Fokus utamanya adalah efisiensi model menggunakan arsitektur **MobileNetV3-Small** dan perbandingan performa antara bobot terbaik (*Best*) serta bobot terakhir (*Last*) selama 30 epoch.
+Proyek ini dikembangkan untuk membedakan varietas jagung berdasarkan fitur visual biji. Fokus utamanya adalah efisiensi model menggunakan arsitektur **MobileNetV3-Small** dan perbandingan performa antara bobot terbaik (*Best*) serta bobot terakhir (*Last*) selama 30 epoch.
 
 **Tugas utama meliputi:**
 - **Preprocessing**: Pembersihan gambar rusak dan augmentasi data.
@@ -61,8 +61,7 @@
 **2. Langkah Instalasi & Run**
 * Clone atau download repository ke perangkat lokal:
 ```bash
-git clone https://github.com/username/Corn-Classification-MobileNetV3.git
-cd Corn-Classification-MobileNetV3
+git clone https://github.com/ddev-0504/Corn-Classification.git
 
 ```
 
